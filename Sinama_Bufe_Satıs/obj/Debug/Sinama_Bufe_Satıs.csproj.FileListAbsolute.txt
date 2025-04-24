@@ -1,0 +1,10 @@
+C:\Users\kkrdl\OneDrive\Belgeler\c# udemy ders\Sinama_Bufe_Satıs\Sinama_Bufe_Satıs\bin\Debug\Sinama_Bufe_Satıs.exe.config
+C:\Users\kkrdl\OneDrive\Belgeler\c# udemy ders\Sinama_Bufe_Satıs\Sinama_Bufe_Satıs\bin\Debug\Sinama_Bufe_Satıs.exe
+C:\Users\kkrdl\OneDrive\Belgeler\c# udemy ders\Sinama_Bufe_Satıs\Sinama_Bufe_Satıs\bin\Debug\Sinama_Bufe_Satıs.pdb
+C:\Users\kkrdl\OneDrive\Belgeler\c# udemy ders\Sinama_Bufe_Satıs\Sinama_Bufe_Satıs\obj\Debug\Sinama_Bufe_Satıs.csproj.AssemblyReference.cache
+C:\Users\kkrdl\OneDrive\Belgeler\c# udemy ders\Sinama_Bufe_Satıs\Sinama_Bufe_Satıs\obj\Debug\Sinama_Bufe_Satıs.Form1.resources
+C:\Users\kkrdl\OneDrive\Belgeler\c# udemy ders\Sinama_Bufe_Satıs\Sinama_Bufe_Satıs\obj\Debug\Sinama_Bufe_Satıs.Properties.Resources.resources
+C:\Users\kkrdl\OneDrive\Belgeler\c# udemy ders\Sinama_Bufe_Satıs\Sinama_Bufe_Satıs\obj\Debug\Sinama_Bufe_Satıs.csproj.GenerateResource.cache
+C:\Users\kkrdl\OneDrive\Belgeler\c# udemy ders\Sinama_Bufe_Satıs\Sinama_Bufe_Satıs\obj\Debug\Sinama_Bufe_Satıs.csproj.CoreCompileInputs.cache
+C:\Users\kkrdl\OneDrive\Belgeler\c# udemy ders\Sinama_Bufe_Satıs\Sinama_Bufe_Satıs\obj\Debug\Sinama_Bufe_Satıs.exe
+C:\Users\kkrdl\OneDrive\Belgeler\c# udemy ders\Sinama_Bufe_Satıs\Sinama_Bufe_Satıs\obj\Debug\Sinama_Bufe_Satıs.pdb
